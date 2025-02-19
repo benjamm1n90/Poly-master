@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/build",
+  "command": "/usr/bin/g++    -std=c++11 -g -o CMakeFiles/Poly.dir/main.cpp.o -c /mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/main.cpp",
+  "file": "/mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/main.cpp",
+  "output": "CMakeFiles/Poly.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/build",
+  "command": "/usr/bin/g++    -std=c++11 -g -o CMakeFiles/Poly.dir/poly.cpp.o -c /mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/poly.cpp",
+  "file": "/mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/poly.cpp",
+  "output": "CMakeFiles/Poly.dir/poly.cpp.o"
+}
+]
