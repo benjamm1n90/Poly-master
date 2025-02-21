@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/c/Users/benja/OneDrive/Desktop/poly/Poly-master/a.out",
+            "program": "/mnt/c/Users/benja/Desktop/poly/Poly-master/a.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
